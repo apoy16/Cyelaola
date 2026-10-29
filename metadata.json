@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Kasir Toko Grosir Modern",
+  "description": "Sistem POS & Kasir Grosir Modern dengan barcode scanner, manajemen stok eceran & grosir, printer thermal otomatis, dan database SQLite.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
